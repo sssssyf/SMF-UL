@@ -1,5 +1,5 @@
 # SMF-UL
-Perceiving Spectral Variation: Unsupervised Spectrum Motion Feature Learning for Hyperspectral Image Classification
+Perceiving Spectral Variation: Unsupervised Spectrum Motion Feature Learning for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5543817, doi: 10.1109/TGRS.2022.3221534.
 
 
 # Requirements
